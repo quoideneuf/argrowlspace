@@ -1,0 +1,23 @@
+{
+  "name": "argrowlspace",
+  "version": "0.0.0",
+  "description": "ArchivesSpace system notifications ",
+  "main": "index.js",
+  "bin": {
+    "argrowlspace": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Hoffman <brianjhoffman@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "asapi": "^0.1.1",
+    "daemon": "^1.1.0",
+    "growl": "^1.8.1",
+    "minimist": "^1.1.0",
+    "npid": "^0.4.0",
+    "prompt": "^0.2.14",
+    "pwuid": "^1.0.1"
+  }
+}

@@ -11,7 +11,7 @@ Install node, terminal-notifier, and this:
 % brew install node
 % brew install terminal-notifier
 % npm install argrowlspace
-```bash
+```
 
 Find out the url of your **backend** ArchivesSpace server and run:
 

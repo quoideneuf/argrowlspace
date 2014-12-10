@@ -1,7 +1,8 @@
 {
   "name": "argrowlspace",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ArchivesSpace system notifications ",
+  "preferGlobal": "true",
   "main": "index.js",
   "bin": {
     "argrowlspace": "./index.js"

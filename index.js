@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var npid = require('npid');
 var argv = require('minimist')(process.argv.slice(2));
 

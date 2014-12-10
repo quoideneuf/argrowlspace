@@ -10,7 +10,7 @@ Install node, terminal-notifier, and this:
 ```bash
 % brew install node
 % brew install terminal-notifier
-% npm install argrowlspace
+% npm install argrowlspace -g
 ```
 
 Find out the url of your **backend** ArchivesSpace server and run:
@@ -20,7 +20,7 @@ Find out the url of your **backend** ArchivesSpace server and run:
 $ ASpace backend url: <ENTER YOUR BACKEND URL>
 $ ASpace username: <ENTER YOUR USERNAME>
 $ ASpace password: <WONT BE SAVED ANYWHERE>
-% You're logged in!
+% You\'re logged in!
 ```
 Now to start getting notifications:
 
